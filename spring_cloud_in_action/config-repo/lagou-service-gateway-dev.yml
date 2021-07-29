@@ -1,3 +1,3 @@
 ipRegisterDefend:
   maxLimitIpHit: 5
-  checkLimitIpHitInterval: 6000
+  checkLimitIpHitInterval: 60000
